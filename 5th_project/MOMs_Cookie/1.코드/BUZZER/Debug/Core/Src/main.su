@@ -1,0 +1,16 @@
+../Core/Src/main.c:116:6:poll_uart6_input	16	static
+../Core/Src/main.c:130:6:send_message_to_server	120	static
+../Core/Src/main.c:137:6:Buzzer_Control	16	static
+../Core/Src/main.c:175:6:Set_Alarm_Time	16	static
+../Core/Src/main.c:193:6:handle_esp_event	16	static
+../Core/Src/main.c:213:6:handle_server_command	64	static
+../Core/Src/main.c:318:6:Reset_Connection	8	static
+../Core/Src/main.c:332:5:main	144	static
+../Core/Src/main.c:481:6:SystemClock_Config	88	static
+../Core/Src/main.c:527:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:579:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:613:13:MX_TIM4_Init	48	static
+../Core/Src/main.c:662:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:695:13:MX_USART6_UART_Init	8	static
+../Core/Src/main.c:728:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:778:6:Error_Handler	4	static,ignoring_inline_asm
