@@ -1,2 +1,0 @@
-#define SERVER_IP "10.10.141.13"
-#define SERVER_PORT 57393
